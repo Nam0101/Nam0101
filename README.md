@@ -1,4 +1,5 @@
 ﻿# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nam!
+<img src="https://user-images.githubusercontent.com/74774683/139845139-a6e5f487-5c87-4035-8d45-4afdafb3aa7a.gif" align="center" height="500" width="1000" >
 
 ## A Software Engineer
 
