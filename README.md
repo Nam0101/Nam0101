@@ -1,5 +1,5 @@
 ﻿# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nam!
-<img src="https://user-images.githubusercontent.com/74774683/139845139-a6e5f487-5c87-4035-8d45-4afdafb3aa7a.gif" align="center" height="500" width="1000" >
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47qv5ki3ouo9s4wodbg5iiuiu9rq1vf5xc8s4kkku1&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="400" width="800" >
 
 ## A Software Engineer
 
