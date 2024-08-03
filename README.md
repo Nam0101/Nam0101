@@ -5,7 +5,7 @@
 
 - 🌍  I'm based in Ha Noi, Viet Nam
 - ✉️  You can contact me at [nam.nv205106@gmail.com](mailto:nam.nv205106@gmail.com)
-- 🧠  I'm learning Android Kotlin, Spring Boot, KMP
+- 🧠  I'm learning Android Kotlin, Spring Boot, KMP, etc...
 - 🤝   I'm available for Freelance work
 
 <a href="https://www.github.com/Nam0101" target="_blank" rel="noreferrer"><img
