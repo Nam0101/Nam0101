@@ -81,9 +81,6 @@
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-🕐 Coming soon - Configure WakaTime to track coding activity
-```
 <!--END_SECTION:waka-->
 
 ---
