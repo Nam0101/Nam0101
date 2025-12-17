@@ -82,7 +82,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-🕐 Coming soon - Set up WakaTime to track coding activity
+🕐 Coming soon - Configure WakaTime to track coding activity
 ```
 <!--END_SECTION:waka-->
 
