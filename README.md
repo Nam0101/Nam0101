@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f72585,50:7209b7,100:3a0ca3&text=Nam0101&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Android%20Engineer%20%7C%20Kotlin%20%7C%20Always%20Building&descAlignY=65&animation=fadeIn" alt="Gradient header"/>
 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> Hi there, I'm **Nam**!
+  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
   
   <a href="https://git.io/typing-svg">
@@ -22,6 +24,27 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,50:7209b7,100:3a0ca3&height=4&section=header&text=&fontSize=0" alt="gradient divider"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&theme=default&hide_border=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam0101&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam0101&layout=compact&theme=default&hide_border=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam0101&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="40%" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nam0101&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -53,11 +76,33 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode,idea,pycharm&theme=dark" />
 </div>
 
+---
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+🕐 Coming soon - Set up WakaTime to track coding activity
+```
+<!--END_SECTION:waka-->
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/LpDmM2wSt6Kf6/giphy.gif" width="90px">
-  <br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNam0101&count_bg=%23f72585&title_bg=%230d1117&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=false"/>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nam0101&color=f72585&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Nam0101?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nam0101?style=flat-square&color=7209b7&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Nam0101/Nam0101">
+    <img src="https://img.shields.io/github/last-commit/Nam0101/Nam0101?style=flat-square&color=3a0ca3&label=Last%20Updated" alt="Last Updated" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3a0ca3,50:4361ee,100:4cc9f0" alt="Footer wave"/>
