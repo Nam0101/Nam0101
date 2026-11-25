@@ -1,106 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f72585,50:7209b7,100:3a0ca3&text=Nam0101&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Android%20Engineer%20%7C%20Kotlin%20%7C%20Always%20Building&descAlignY=65&animation=fadeIn" alt="Gradient header"/>
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> Hi there, I'm **Nam**!
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1100&color=F72585&center=true&vCenter=true&width=520&lines=Software+Engineer;Android+Dev+(Kotlin+%2F+Compose);Always+building+cool+stuff+🚀" alt="Typing intro" />
-  </a>
+<img src="assets/hero.svg" width="100%" alt="Nguyen Van Nam, Android Engineer: Kotlin, Jetpack Compose, Rust"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=620&lines=Building+dev+tools+in+Rust+%26+TypeScript;MCP+servers+%C2%B7+CLIs+%C2%B7+Claude+Code+mods;Smooth+at+120+FPS+or+it+didn%27t+ship+%F0%9F%9A%80" alt="Building dev tools in Rust & TypeScript · MCP servers, CLIs, Claude Code mods"/></a>
+
+<a href="https://www.linkedin.com/in/nam-nguy%E1%BB%85n-v%C4%83n-50514621a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/nam.nv5106"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="mailto:nam.nv205106@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://gitranks.com/profile/Nam0101"><img src="https://img.shields.io/badge/GitRanks-7209B7?style=for-the-badge&logo=github&logoColor=white" alt="GitRanks profile"/></a>
+
 </div>
+
+## 🧑‍💻 About me
+
+<img src="assets/code.svg" width="100%" alt="Nam.kt: object Nam : AndroidEngineer. Home Hà Nội, Việt Nam; school HUST; stack Kotlin, Compose, KMP; side quests Rust, TypeScript, MCP; building rexc (Rex terminal on Android), mirako (Gradle builds over SSH), android-mcp-toolkit (MCP tools); motto: smooth at 120 FPS or it didn't ship. A phone beside it renders the profile as the code is typed."/>
+
+## 🚀 Featured projects
 
 <div align="center">
-  <a href="https://www.facebook.com/nam.nv5106" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/nam-nguy%E1%BB%85n-v%C4%83n-50514621a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nam.nv205106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+<a href="https://github.com/Nam0101/android-mcp-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=android-mcp-toolkit&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=f72585&icon_color=b5179e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=android-mcp-toolkit&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=7209b7&icon_color=f72585&text_color=57606a" width="48%" alt="android-mcp-toolkit"/></picture></a>
+<a href="https://github.com/Nam0101/rexc"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=rexc&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=f72585&icon_color=b5179e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=rexc&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=7209b7&icon_color=f72585&text_color=57606a" width="48%" alt="rexc"/></picture></a>
+<a href="https://github.com/Nam0101/reflex-android"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=reflex-android&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=f72585&icon_color=b5179e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=reflex-android&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=7209b7&icon_color=f72585&text_color=57606a" width="48%" alt="reflex-android"/></picture></a>
+<a href="https://github.com/Nam0101/mirako"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=mirako&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=f72585&icon_color=b5179e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nam0101&repo=mirako&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=7209b7&icon_color=f72585&text_color=57606a" width="48%" alt="mirako"/></picture></a>
+
+<sub>Also: <a href="https://github.com/Nam0101/claude-multiverse">claude-multiverse</a>, a Claude Code theme mod with 114 dark universes.</sub>
+
 </div>
+
+## 🏆 Where I rank
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,50:7209b7,100:3a0ca3&height=4&section=header&text=&fontSize=0" alt="gradient divider"/>
+
+<a href="https://gitranks.com/profile/Nam0101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/Nam0101/profile-card.svg?theme=dark"><img src="https://gitranks.com/badge/user/Nam0101/profile-card.svg?theme=light" width="420" alt="Nam0101 on GitRanks: profile card"/></picture></a>
+
+<a href="https://gitranks.com/profile/Nam0101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/Nam0101/tier.svg?theme=dark"><img src="https://gitranks.com/badge/user/Nam0101/tier.svg?theme=light" alt="Nam0101 on GitRanks: tier"/></picture></a>
+<a href="https://gitranks.com/profile/Nam0101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/Nam0101/rank.svg?theme=dark"><img src="https://gitranks.com/badge/user/Nam0101/rank.svg?theme=light" alt="Nam0101 on GitRanks: stars rank"/></picture></a>
+<a href="https://gitranks.com/profile/Nam0101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/Nam0101/language-rank.svg?theme=dark"><img src="https://gitranks.com/badge/user/Nam0101/language-rank.svg?theme=light" alt="Nam0101 on GitRanks: language rank"/></picture></a>
+<a href="https://gitranks.com/profile/Nam0101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/Nam0101/month.svg?theme=dark"><img src="https://gitranks.com/badge/user/Nam0101/month.svg?theme=light" alt="Nam0101 on GitRanks: stars this month"/></picture></a>
+
 </div>
 
----
-
-## 📈 GitHub Stats
+## 📈 GitHub activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&theme=default&hide_border=true" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam0101&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam0101&layout=compact&theme=default&hide_border=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam0101&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="40%" />
-  </picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&count_private=true&card_width=495&bg_color=0d1117&border_color=30363d&title_color=f72585&icon_color=b5179e&text_color=c9d1d9&ring_color=f72585"><img src="https://github-readme-stats.vercel.app/api?username=Nam0101&show_icons=true&count_private=true&card_width=495&bg_color=ffffff&border_color=d0d7de&title_color=7209b7&icon_color=f72585&text_color=57606a&ring_color=7209b7" width="48%" alt="GitHub stats"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nam0101&background=0d1117&border=30363d&stroke=30363d&ring=f72585&fire=f72585&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f72585&sideLabels=c9d1d9&dates=8b949e"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nam0101&background=ffffff&border=d0d7de&stroke=d0d7de&ring=7209b7&fire=f72585&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=7209b7&sideLabels=57606a&dates=57606a" width="48%" alt="GitHub streak"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nam0101&bg_color=0d1117&color=c9d1d9&title_color=f72585&line=f72585&point=4cc9f0&area=true&area_color=7209b7&hide_border=true&radius=8"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nam0101&bg_color=ffffff&color=57606a&title_color=7209b7&line=7209b7&point=f72585&area=true&area_color=f72585&hide_border=true&radius=8" width="97%" alt="Contribution activity graph"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nam0101/Nam0101/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/Nam0101/Nam0101/output/snake-light.svg" width="97%" alt="Snake eating my contribution graph"/></picture>
+
 </div>
+
+## 🛠️ Toolbox
+
+<img src="assets/orbit.svg" width="100%" alt="Toolbox orbit: Kotlin at the core; Java, Android Studio, Gradle, Flutter, Dart; Rust, Python, TypeScript, JavaScript, C++, React, Node.js, Next.js, Tailwind; Firebase, PostgreSQL, MySQL, MongoDB, Docker, Linux, Git, GitHub, IntelliJ IDEA, VS Code"/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nam0101&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
 
----
+<br/>
 
-### ✨ Highlights
+<img src="https://komarev.com/ghpvc/?username=Nam0101&color=f72585&style=flat-square&label=Profile+views" alt="Profile views"/>
+<a href="https://github.com/Nam0101?tab=followers"><img src="https://img.shields.io/github/followers/Nam0101?style=flat-square&color=7209b7&label=Followers" alt="GitHub followers"/></a>
+<a href="https://github.com/Nam0101?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Nam0101?style=flat-square&color=3a0ca3&label=Stars" alt="Total stars"/></a>
 
-<div align="center" style="padding:16px;border-radius:14px;background:linear-gradient(135deg,rgba(247,37,133,0.18),rgba(114,9,183,0.18),rgba(58,12,163,0.28));color:#e7e7ff;max-width:900px;">
-  <b>Focus:</b> Compose-first Android with smooth motion & offline-ready UX<br/>
-  <b>Flavor:</b> Gradient UI, micro-interactions, on-device ML experiments
-</div>
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Have a smooth, 120 FPS day!"/>
 
----
-
-### ⚡ Now
-
-- Based in **Ha Noi, Viet Nam**
-- Crafting Android apps with **Kotlin, Compose, KMP**
-- Exploring **machine learning** and UI micro-interactions
-
----
-
-### 🛠️ Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,js,ts,dart&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=android,flutter,spring,django,react,nodejs,fastapi&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode,idea,pycharm&theme=dark" />
-</div>
-
----
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LpDmM2wSt6Kf6/giphy.gif" width="90px">
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nam0101&color=f72585&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Nam0101?tab=followers">
-    <img src="https://img.shields.io/github/followers/Nam0101?style=flat-square&color=7209b7&label=Followers" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Nam0101/Nam0101">
-    <img src="https://img.shields.io/github/last-commit/Nam0101/Nam0101?style=flat-square&color=3a0ca3&label=Last%20Updated" alt="Last Updated" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3a0ca3,50:4361ee,100:4cc9f0" alt="Footer wave"/>
 </div>
