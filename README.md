@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Nguyen Van Nam, Android Engineer: Kotlin, Jetpack Compose, Rust"/>
+<img src="assets/hero.svg" width="100%" alt="Nguyen Van Nam, Android Engineer: Kotlin, Jetpack Compose, Rust. Nam and Claude code side by side while a portal from Nam's laptop jumps them through eight universes: Neon 2099, Dragonfire, Black Hole, Sky Whales, Synthwave Highway, Polar Night, Cherry Blossom, The Deep."/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=620&lines=Building+dev+tools+in+Rust+%26+TypeScript;MCP+servers+%C2%B7+CLIs+%C2%B7+Claude+Code+mods;Smooth+at+120+FPS+or+it+didn%27t+ship+%F0%9F%9A%80" alt="Building dev tools in Rust & TypeScript · MCP servers, CLIs, Claude Code mods"/></a>
+<sub>Universes from <a href="https://github.com/Nam0101/claude-multiverse">claude-multiverse</a>, my Claude Code theme mod with 114 of them. Same chair in every one.</sub>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=620&lines=Coding+across+114+universes+with+Claude;Building+dev+tools+in+Rust+%26+TypeScript;Smooth+at+120+FPS+in+every+universe+%F0%9F%9A%80" alt="Coding across 114 universes with Claude · Building dev tools in Rust & TypeScript · Smooth at 120 FPS in every universe"/></a>
 
 <a href="https://www.linkedin.com/in/nam-nguy%E1%BB%85n-v%C4%83n-50514621a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/nam.nv5106"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -13,7 +15,7 @@
 
 ## 🧑‍💻 About me
 
-<img src="assets/code.svg" width="100%" alt="Nam.kt: object Nam : AndroidEngineer. Home Hà Nội, Việt Nam; school HUST; stack Kotlin, Compose, KMP; side quests Rust, TypeScript, MCP; building rexc (Rex terminal on Android), mirako (Gradle builds over SSH), android-mcp-toolkit (MCP tools); motto: smooth at 120 FPS or it didn't ship. A phone beside it renders the profile as the code is typed."/>
+<img src="assets/code.svg" width="100%" alt="In Hologram City, Nam.kt: object Nam : AndroidEngineer. Home Hà Nội, Việt Nam; school HUST; stack Kotlin, Compose, KMP; side quests Rust, TypeScript, MCP; building rexc (Rex terminal on Android), mirako (Gradle builds over SSH), android-mcp-toolkit (MCP tools); motto: smooth at 120 FPS or it didn't ship. A phone beside it renders the profile as the code is typed."/>
 
 ## 🚀 Featured projects
 
@@ -56,7 +58,7 @@
 
 ## 🛠️ Toolbox
 
-<img src="assets/orbit.svg" width="100%" alt="Toolbox orbit: Kotlin at the core; Java, Android Studio, Gradle, Flutter, Dart; Rust, Python, TypeScript, JavaScript, C++, React, Node.js, Next.js, Tailwind; Firebase, PostgreSQL, MySQL, MongoDB, Docker, Linux, Git, GitHub, IntelliJ IDEA, VS Code"/>
+<img src="assets/orbit.svg" width="100%" alt="In Void Drift, Nam and Claude float at their desks while the toolbox orbits them: Kotlin; Java, Android Studio, Gradle, Flutter, Dart; Rust, Python, TypeScript, JavaScript, C++, React, Node.js, Next.js, Tailwind; Firebase, PostgreSQL, MySQL, MongoDB, Docker, Linux, Git, GitHub, IntelliJ IDEA, VS Code"/>
 
 <div align="center">
 
@@ -66,6 +68,6 @@
 <a href="https://github.com/Nam0101?tab=followers"><img src="https://img.shields.io/github/followers/Nam0101?style=flat-square&color=7209b7&label=Followers" alt="GitHub followers"/></a>
 <a href="https://github.com/Nam0101?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Nam0101?style=flat-square&color=3a0ca3&label=Stars" alt="Total stars"/></a>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Have a smooth, 120 FPS day!"/>
+<img src="assets/footer.svg" width="100%" alt="Golden Hour: Nam, in a nón lá, waves goodbye while Claude celebrates a finished job. Thanks for stopping by, see you in another universe."/>
 
 </div>
